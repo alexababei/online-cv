@@ -13,18 +13,13 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: alex.ababei@outlook.com
+    phone: +34 643 601 784
+    timezone: Europe/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@jekyllrb'
+    website: https://alexababei.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
+    linkedin: Alex Ababei
+    github: Alex Ababei
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -34,40 +29,37 @@ sidebar:
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
-      title: Languages
+      title: Idiomas
       info:
-        - idiom: English
-          level: Native
+        - idiom: Español
+          level: Nativo
 
-        - idiom: French
-          level: Professional
+        - idiom: Rumano
+          level: Materno
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Inglés
+          level: Profesional
 
     interests:
-      title: Interests
+      title: Aficiones
       info:
-        - item: Climbing
+        - item: Videojuegos
           link:
 
-        - item: Snowboarding
+        - item: Finanzas
           link:
 
-        - item: Cooking
+        - item: Lectura
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Profesional con casi 5 años de experiencia en el sector de la información.
+      Me especializo en administrar y/o operar sistemas Linux, desde sus fases pre-productivas hasta las críticas.
+      Familiarizado con una amplia gama de herramientas corporativas como ticketing (jira, ITSM), despliegues (jenkins)...
 education:
-    title: Education
+    title: Educación
     info:
       - degree: MSc in Computer Science
         university: University of London
