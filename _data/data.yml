@@ -15,7 +15,7 @@ sidebar:
     email: alex.ababei@outlook.com
     phone: +34 643 601 784
     timezone: Europe/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
+    citizenship: Madrid
     website: https://alexababei.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
     linkedin: Alex Ababei
     github: Alex Ababei
@@ -57,10 +57,12 @@ career-profile:
       Profesional con casi 5 años de experiencia en el sector de la información.
       Me especializo en administrar y/o operar sistemas Linux, desde sus fases pre-productivas hasta las críticas.
       Familiarizado con una amplia gama de herramientas corporativas como ticketing (jira, ITSM), despliegues (jenkins)...
+
+|
 education:
     title: Educación
     info:
-      - degree: Grado superior en Administración de Sistemas Informáticos en Red
+      - degree: Grado Superior - Administración de Sistemas Informáticos en Red
         university: IES Alonso de Avellaneda
         time: 2018 - 2020
       - degree: Bachillerato
