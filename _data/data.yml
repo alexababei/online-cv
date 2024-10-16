@@ -93,8 +93,8 @@ experiences:
         details: |
           Mis roles se dividen en 2 categorías:
             - Administración cola de archivos (MIDDLEWARE)
-                o Herramientas de transmisión de ficheros: Dataone y Spazio
-                o Creación de flujo de datos entre diferentes entornos/máquinas (SAP, APPIAN)
+                - Herramientas de transmisión de ficheros: Dataone y Spazio
+                - Creación de flujo de datos entre diferentes entornos/máquinas (SAP, APPIAN)
                 o Modificación/eliminado de flujos.
                 o Atención de incidencias y peticiones de clientes.
             - Operador de aplicaciones y sistemas (AO)
