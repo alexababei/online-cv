@@ -17,7 +17,7 @@ sidebar:
     phone: +34 643 601 784
     timezone: Europe/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Madrid
-    website: alexababei.github.io/online-cv # Include the full website URL, including "http://" or "https://".
+    website: https://alexababei.github.io/online-cv # Include the full website URL, including "http://" or "https://".
     linkedin: alex-ababei
     github: alexababei
     stack-overflow: # Number/Username, e.g. 123456/alandoe
