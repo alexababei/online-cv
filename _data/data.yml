@@ -117,7 +117,7 @@ certifications:
           end:
           organization: LPI (Linux Professional Institute)
           credentialid: Essentials
-          credentialurl: www.github.com
+          credentialurl: https://raw.githubusercontent.com/alexababei/online-cv/blob/gh-pages/assets/AlexAbabei-LPI-LINUX-ESSENT-certificate.pdf
           credentialname: Descarga
           details: |
 skills:
