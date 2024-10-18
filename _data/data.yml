@@ -15,8 +15,8 @@ sidebar:
     # Sidebar links
     email: alex.ababei@outlook.com
     phone: +34 643 601 784
-    timezone: Europe/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship: Madrid
+    timezone: # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: Alcalá de Henares, Madrid
     website: https://alexababei.github.io/online-cv # Include the full website URL, including "http://" or "https://".
     linkedin: alex-ababei
     github: alexababei
