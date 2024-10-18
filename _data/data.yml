@@ -109,7 +109,7 @@ certifications:
           start: 2024
           organization: LPI (Linux Professional Institute)
           credentialid: 101-500 y 102-500
-          credentialurl: https://www.lpi.org/
+          credentialurl: www.lpi.org
           credentialname: Descargar
           details: |
         - name: Linux Essentials
@@ -117,7 +117,7 @@ certifications:
           end:
           organization: LPI (Linux Professional Institute)
           credentialid: Essentials
-          credentialurl: https://raw.githubusercontent.com/alexababei/online-cv/blob/gh-pages/assets/AlexAbabei-LPI-LINUX-ESSENT-certificate.pdf
+          credentialurl: www.raw.githubusercontent.com/alexababei/online-cv/blob/gh-pages/assets/AlexAbabei-LPI-LINUX-ESSENT-certificate.pdf
           credentialname: Descarga
           details: |
 skills:
