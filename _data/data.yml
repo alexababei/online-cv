@@ -26,7 +26,7 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: raw.githubusercontent.com/alexababei/online-cv/gh-pages/assets/CV_Alex_Ababei_102024.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: gh-pages/assets/CV_Alex_Ababei_102024.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Idiomas
