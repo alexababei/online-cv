@@ -109,13 +109,13 @@ experiences:
 certifications:
       title: Certificaciones
       list:
-        - name: LPIC-01
-          start: 2024
-          organization: LPI (Linux Professional Institute)
-          credentialid: 101-500 y 102-500
-          credentialurl: www.lpi.org
-          credentialname: Descargar
-          details: |
+        #- name: LPIC-01
+          # start: 2024
+          # organization: LPI (Linux Professional Institute)
+          # credentialid: 101-500 y 102-500
+          # credentialurl: www.lpi.org
+          # credentialname: Descargar
+          # details: |
         - name: Linux Essentials
           start: 2018
           end:
