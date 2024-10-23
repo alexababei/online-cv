@@ -129,13 +129,13 @@ skills:
 
     toolset:
       - name: Ticketing/soporte (JIRA,BMC..)
-        level: 100%
-        
-      - name: Scripting (word,excel..)
-        level: 90%
+        level: 95%
 
       - name: Scripting (bash,Python..)
-        level: 80%
+        level: 85%
+        
+      - name: Ofimática (word,excel..)
+        level: 85%
 
       - name: BBDD (Oracle,SQLServer...)
         level: 78%
