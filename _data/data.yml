@@ -109,20 +109,20 @@ experiences:
 certifications:
       title: Certificaciones
       list:
-        #- name: LPIC-01
-          # start: 2024
-          # organization: LPI (Linux Professional Institute)
-          # credentialid: 101-500 y 102-500
-          # credentialurl: www.lpi.org
-          # credentialname: Descargar
-          # details: |
+        - name: LPIC-01
+          start: 2024
+          end: 2029
+          organization: LPI (Linux Professional Institute)
+          credentialid: 101-500 y 102-500
+          credentialurl: raw.githubusercontent.com/alexababei/online-cv/gh-pages/assets/LPIC-1.pdf
+          credentialname: Descargar
+          details: |
         - name: Linux Essentials
           start: 2018
-          end:
           organization: LPI (Linux Professional Institute)
           credentialid: Essentials
           credentialurl: raw.githubusercontent.com/alexababei/online-cv/gh-pages/assets/AlexAbabei-LPI-LINUX-ESSENT-certificate.pdf
-          credentialname: Descarga
+          credentialname: Descargar
           details: |
 skills:
     title: Conocimientos y/o habilidades
