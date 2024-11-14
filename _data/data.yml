@@ -145,10 +145,10 @@ skills:
         level: 85%
 
       - name: Administración Windows
-        level: 95%
+        level: 85%
 
       - name: BBDD (Oracle/SQLServer)
-        level: 78%
+        level: 80%
         
       - name: Web (Apache/Jboss)
         level: 75%
