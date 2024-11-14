@@ -163,6 +163,9 @@ skills:
         
       - name: Scripting (Powershell)
         level: 65%
+        
+      - name: DevOps (Docker/Jenkins)
+        level: 55%
 
       - name: Monitorización (Nginx/Zabbix)
         level: 50%
