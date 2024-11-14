@@ -34,11 +34,11 @@ sidebar:
         - idiom: Español
           level: Nativo
 
-        - idiom: Rumano
-          level: Materno
-
         - idiom: Inglés
           level: Profesional
+
+        - idiom: Rumano
+          level: Materno
 
     interests:
       title: Aficiones
