@@ -132,7 +132,7 @@ skills:
     title: Conocimientos y/o habilidades
 
     toolset:
-    - name: Administración Linux
+      - name: Administración Linux
         level: 95%
         
       - name: Ticketing (JIRA/Remedy)
