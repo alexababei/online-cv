@@ -66,6 +66,16 @@ career-profile:
       Familiarizado con una amplia gama de herramientas corporativas.            
       Desde siempre he trabajado con equipos, siendo proactivo y colaborador.
 
+education:
+    title: Educación
+    info:
+      - degree: Grado Superior - Administración de Sistemas Informáticos en Red
+        university: IES Alonso de Avellaneda
+        time: 2018 - 2020
+      - degree: Bachillerato
+        university: IES Alkala Nahar
+        time: 2016 - 2018
+
 experiences:
     title: Experiencia Laboral
     info:
@@ -101,17 +111,7 @@ experiences:
                 - Reinicio controlado de servidores (CRQ)
                 - Despliegue de versiones 
                 - Mantenimiento de servicios (parada/arranque/reinicio)
-
-education:
-    title: Educación
-    info:
-      - degree: Grado Superior - Administración de Sistemas Informáticos en Red
-        university: IES Alonso de Avellaneda
-        time: 2018 - 2020
-      - degree: Bachillerato
-        university: IES Alkala Nahar
-        time: 2016 - 2018
-        
+                
 certifications:
       title: Certificaciones
       list:
@@ -147,7 +147,7 @@ skills:
         level: 85%
 
       - name: Administración Windows
-        level: 85%
+        level: 80%
 
       - name: BBDD (Oracle/SQLServer)
         level: 80%
