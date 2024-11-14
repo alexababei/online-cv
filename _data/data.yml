@@ -55,6 +55,9 @@ sidebar:
         - item: Música
           link:
 
+        - item: Aprender
+          link:
+
 career-profile:
     title: Perfil
     summary: |
@@ -75,37 +78,38 @@ education:
 experiences:
     title: Experiencia Laboral
     info:
-      - role: Operador de aplicaciones (N2) - Linux/Windows
+      - role: Técnico de sistemas N2 - Linux/Windows
         time: Enero 2022 - Actualidad
         company: VASS - "Proyecto Telefónica"
         details: |
           Mis roles se dividen en 2 categorías:
             - Administración cola de archivos (MIDDLEWARE)
                 - Herramientas de transmisión de ficheros: Dataone y Spazio
-                - Creación de flujo de datos entre diferentes entornos/máquinas (SAP, APPIAN)
-                - Modificación/eliminado de flujos.
+                - Creación de flujo de datos entre diferentes máquinas/entornos (SAP, APPIAN)
+                - Mantenimiento de flujos: añadir/modificar/eliminar componentes del flujo.
                 - Atención de incidencias y peticiones de clientes.
             - Operador de aplicaciones y sistemas (AO)
-                - Principalmente enfocado en sistemas Linux/Unix
-                - Verificación diaria de aplicativos.
-                - Control de filesystems: find, du, df, Treesize (Windows)
-                - Control de usuarios y contraseñas: LDAP, Keepass, Active directory (Windows)
-                - Certificaciones y claves: cer, pfx, csr
-                - Revisión y mantenimiento sobre logs del sistema: cat, grep, head, tail, vim, Event Viewer (Windows)
-                - Arranque/parada de aplicativos: Jboss, Citrix, IIS (Windows)
-                - Mantenimiento básico de las BBDD: Oracle SQL Developer y SQL Server (Windows)
-                - Incidencias y ticketing: BMC ITSM, Jira, Outlook
-                - Despliegue en aplicativos PRODUCTIVOS y PRE-PRODUCTIVOS: manual o automático (Jenkins)
-      - role: Técnico de sistemas 24x7 (helpdesk)
+                 - Despliegue de aplicativos, producción y pre-producción (Jenkins) 
+                 - Incidencias y cambios en infraestructura (BMC ITSM, Outlook) 
+                 - Arranques/paradas/reinicios de aplicativos webs. (JBOSS/Apache, IIS) 
+                 - Programación de scripts para aplicativos (Bash, Python) 
+                 - Ejecución de SQL y mantenimiento de BBDD. (Oracle, SQL Server) 
+                 - Control de usuarios y contraseñas (LDAP, Active Directory) 
+                 - Gestión de filesystems (LVM, NAS) 
+                 - Cambio de certificaciones y claves. (cer, pfx, csr) 
+      - role: Soporte Helpdesk N1 (24x7)
         time: Octubre 2020 – Enero 2022
         company: Indra - "Proyecto BBVA"
         details: |
           Funciones principales dentro de la empresa:
-            - Monitorización de máquinas PRODUCTIVAS: BMC Impact
-            - Atención a otros grupos de soporte: JIRA y/o Remedy
-            - Resolución de incidencas por correo: Gmail
-            - Atención de llamadas telefónicas y derivado a otros grupos de soporte (Contact Center)
-            - Operativas en Unix y Windows: reinicios controlados, mantenimiento de aplicativos, ejecución de jobs Control-M
+            - Monitoreo de servicios con la herramienta BMC Impact. - - - - 
+            - Gestión y resolución de incidencias en plataformas ticketing: JIRA y Remedy. 
+            - Manejo de correos (Gmail) y atención de llamadas telefónicas (Contact Center) 
+            - Ejecución de jobs en Control-M. 
+            - Operativas en Unix y Windows:  
+                - Reinicio controlado de servidores (CRQ)
+                - Despliegue de versiones 
+                - Mantenimiento de servicios (parada/arranque/reinicio)
 certifications:
       title: Certificaciones
       list:
@@ -128,29 +132,41 @@ skills:
     title: Conocimientos y/o habilidades
 
     toolset:
-      - name: Ticketing/soporte (JIRA,BMC..)
+    - name: Administración Linux
+        level: 95%
+        
+      - name: Ticketing (JIRA/Remedy)
+        level: 90%
+
+      - name: Scripting (Bash)
+        level: 85%
+        
+      - name: Ofimática (Word/Excel/PPT)
+        level: 85%
+
+      - name: Administración Windows
         level: 95%
 
-      - name: Scripting (bash,Python..)
-        level: 85%
-        
-      - name: Ofimática (word,excel..)
-        level: 85%
-
-      - name: BBDD (Oracle,SQLServer...)
+      - name: BBDD (Oracle/SQLServer)
         level: 78%
         
-      - name: Web (Apache, Jboss..)
+      - name: Web (Apache/Jboss)
         level: 75%
         
-      - name: Redes (DNS,proxy..)
+      - name: Scripting (Python)
+        level: 75%
+        
+      - name: Redes (DNS,proxy...)
         level: 70%
+        
+      - name: Scripting (Powershell)
+        level: 65%
 
-      - name: Monitorización (Nginx,Zabbix..)
+      - name: Monitorización (Nginx/Zabbix)
         level: 50%
 
-      - name: Seguridad (cifrado,SSL...)
+      - name: Seguridad (cifrado,SSL)
         level: 45%
 
-      - name: Backups (NetApp,RAIDS..)
+      - name: Backups (NetApp,RAIDS)
         level: 40%
